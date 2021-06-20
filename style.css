@@ -170,51 +170,6 @@ a.nav-link:hover{
 
 
 
-/******************** FAQS Section*****************************/
-#faq {
-  /*background-color: gray;*/
-  background: #C5A880;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #C5A880, #C5A880);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #C5A880, #C5A880);
-  color: #C5A880;
-  height:60vh;
-  padding-top:50px;
-}
-#faq h2{
-  text-align:center;
-}
-.faq-container{
-  width:70vw;
-  height:40vh;
-  border-radius:10px;
-  margin: auto;
-  padding:20px 50px ;
-  margin-top:20px;
-  border:1px solid black;
-}
-
-  
-.question-div > p{
-  padding:5px 8px 1px 8px;
-  color:white;
-  font-size:20px;
-  display: inline-block;
-}
-.question-div i{
-  float:right;
-  color:white;
-  font-size:15px;
-}
-.answer {
-  color:black;
-  width:65vw;
-  padding:5px;
-  position: absolute;
-  background-color:white;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index:2;
-}
-
 /* footer */
 
 #footer {
